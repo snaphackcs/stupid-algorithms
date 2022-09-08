@@ -6,7 +6,7 @@ some stupid algorithm
 ```powershell
 ./stusort.exe [arg] [numbers]
 arg: 
-    -o        for having output of recursive calling
+    -o        # for having output of recursive calling
 numbers:
     space separated number
     e.g.
